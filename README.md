@@ -25,22 +25,7 @@ Grâce à mon **double cursus en Intelligence Artificielle et Management**, je c
 - 🤝 **Sociabilité & Travail en équipe**  
 - 🎨 **Créativité & Esprit analytique**  
 - 🧐 **Méthodique & Autonome**  
-
-## 📜 Expériences & Projets  
-
-### 💼 Expériences professionnelles  
-- **🔹 Assistante base de données – BMCE Bank of Africa (05/2024, Stage 1 mois)**  
-  - Optimisation des requêtes SQL  
-  - Gestion et maintenance de bases de données  
-  - Collaboration avec les équipes techniques  
-
-- **🔹 Service en restauration – Buffalo Grill (2022/2024)**  
-  - Planification et organisation  
-  - Gestion de la relation client  
-  - Création de contenu pour les réseaux sociaux  
-
-- **🔹 Tutrice d’accompagnement (2024)**  
-  - Cours particuliers de maths et d’anglais  
+ 
 
 ### 🔍 Projets académiques  
 - **📊 Analyse des données d’un restaurant et création d’un Dashboard Power BI (2024)**  
