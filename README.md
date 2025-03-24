@@ -16,7 +16,8 @@ Grâce à mon **double cursus en Intelligence Artificielle et Management**, je c
 - **Analyse et optimisation de requêtes SQL**  
 
 ### 💻 Développement & Outils  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java] 
 - **API**  
 - **Pack Office (Excel, Word, PowerPoint)**  
 
