@@ -1,11 +1,11 @@
-# 👋 Salut, moi c'est **Yasmine Ammerti** !  
+#  Salut, moi c'est **Yasmine Ammerti** !  
 
 ## 🎓 À propos de moi  
 Étudiante en **Data Science et Business Analytics** en alternance à **IA School Lille**, j’ai développé des compétences solides en **analyse de données, gestion de bases de données et visualisation**.  
 
 Grâce à mon **double cursus en Intelligence Artificielle et Management**, je combine une approche analytique et stratégique pour aider les entreprises à exploiter pleinement la valeur de leurs données.  
 
-## 🚀 Compétences & Technologies  
+##  Compétences & Technologies  
 
 ### 🔢 Analyse de données  
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white) **(PostgreSQL, MySQL)**  
@@ -20,7 +20,7 @@ Grâce à mon **double cursus en Intelligence Artificielle et Management**, je c
 - **API**  
 - **Pack Office (Excel, Word, PowerPoint)**  
 
-### 🎨 Soft Skills  
+###  Soft Skills  
 - 💡 **Capacité d’adaptation & Résolution de problèmes**  
 - 🤝 **Sociabilité & Travail en équipe**  
 - 🎨 **Créativité & Esprit analytique**  
